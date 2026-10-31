@@ -1,0 +1,63 @@
+Paper 10.1 IFRAC - S3 @ 15000 keV, la mau 0.171 cm (mu*x ~ 0.01)
+
+[ Parameters ]
+icntl    = 0
+nucdata  = 0
+negs     = -1
+maxcas   = 1000000
+maxbch   = 1
+file(6)  = phits_S3_0p171cm_15000keV.out
+
+[ Source ]
+s-type   = 1
+proj     = photon
+e0       = 15.000000
+x0 = 0.0
+y0 = 0.0
+z0 = -1.0
+z1 = -1.0
+r0 = 0.0
+dir      = 1.0
+
+[ Material ]
+m2    3000.00c  -0.18583
+      5000.00c  -0.10870
+      8000.00c  -0.54550
+      13000.00c  -0.02646
+      14000.00c  -0.04674
+      64000.00c  -0.08676
+
+[ Surface ]
+11  pz   0.0
+12  pz   0.171
+22  cz   5.0
+99  so  50.0
+
+[ Cell ]
+101   2 -2.9080   11 -12 -22
+108   0   -99 #101
+110  -1    99
+
+[ Volume ]
+reg  vol
+101  1.343031e+01
+
+[ T-Track ]
+title  = thong luong photon x tiet dien rieng phan cua thu vien (MT -1 Compton, -2 Rayleigh, -3 PE, -4 tao cap, -5 tong)
+mesh   = reg
+reg    = 101
+part   = photon
+unit   = 1
+e-type = 2
+ne     = 1
+emin   = 14.850000
+emax   = 15.150000
+axis   = reg
+file   = rate_S3_0p171cm_15000keV.out
+multiplier = all
+part = photon
+emax = 100
+mat   mset1       mset2       mset3       mset4       mset5
+all   ( 1 2 -1 )  ( 1 2 -2 )  ( 1 2 -3 )  ( 1 2 -4 )  ( 1 2 -5 )
+
+[ End ]

@@ -1,0 +1,102 @@
+{
+ "project": "2026.10.30_Paper10.1_extra_PHITS",
+ "root": "1ZFOP2jwofBXVIpt9q8GWewzDZXhz4LeV",
+ "tiers": {
+  "01_Summary_Excel_Results": "1ISLEj_N51FhaCF1ecAbPqQ4YMDGDzL5s",
+  "02_Flux_Data": "12_a3ySMhwyt-fl-uSxKn-7hrn9Ia0px1",
+  "03_Simulation_Outputs": "17jDcThIZuPiPu2Y0e1J_jNjwDrWC1xvL",
+  "04_Input_Decks": "1ZCpf3IcbMmSkqbjYjlQqZmLJw96WJSiT",
+  "05_Execution_Logs_and_Benchmarks": "1cpmyEqVvmUBRC13SGUKQqamu9-Vu6oB2"
+ },
+ "sub": {
+  "IFRAC": {
+   "01_Summary_Excel_Results": "1RXJJQMb82jxqDgOfZPuWqjmbFpannt6g",
+   "02_Flux_Data": "1dVao8s-d81QXOVjhrzgKEju19NjMPr28",
+   "03_Simulation_Outputs": "1-TWMPYd81p6doSNxBZyfwl1E4zOLga9l",
+   "04_Input_Decks": "1TwenTSEeAsBFmqZNs7ecL2KjPFFyUU0e",
+   "05_Execution_Logs_and_Benchmarks": "1NArkjXio5jivjRnIdweBYkGghIpOMzEJ"
+  },
+  "KA": {
+   "01_Summary_Excel_Results": "1JeHj3_sin9e3MH8Th0KQ-XEpLGNhyuc7",
+   "02_Flux_Data": "15r2hG81c7hW_YFzqXctFCcxq6h5bxnx_",
+   "03_Simulation_Outputs": "1iPcKozJQx07CTNjx9KrYhyzFY0N-0RE2",
+   "04_Input_Decks": "1dcghchC_CA70TxfKIJS-eJO0f56I0hcJ",
+   "05_Execution_Logs_and_Benchmarks": "1ukPLvCWKpz3vjv9zqG8Jqbh_Yo1DHtRn"
+  },
+  "SAFE": {
+   "01_Summary_Excel_Results": "1toPeOm-jHrq4KVT9w4tzHi5jQQOkbP_Q",
+   "02_Flux_Data": "1f3mHMH1mugMePYt3Dvryq1Fpopyc6Jpj",
+   "03_Simulation_Outputs": "1wZjEUV5fkQTzQBQVd_xtEzXDrDmzXzQu",
+   "04_Input_Decks": "1h09xu5F2PvAufRWq4LAcCVnFSS79TArO",
+   "05_Execution_Logs_and_Benchmarks": "19kbwJYzy5a5MZwiEwoZw7yAfipkPwsja"
+  },
+  "SR": {
+   "01_Summary_Excel_Results": "1nsKoQOWXiWGbyOk8c9bTnmQhvY6KLA6N",
+   "02_Flux_Data": "1pH4fao53F_MxptY6tY5dkdsrOu6XXgVq",
+   "03_Simulation_Outputs": "1tZF94glHkcroHiWhrVV68gvQhfxIko61",
+   "04_Input_Decks": "1taH90cIhyh2o5LodH9uirgY_6jQB3Y7P",
+   "05_Execution_Logs_and_Benchmarks": "1ay1vgIbDkps-5kjlyBMJkgHSS8gPobLQ"
+  },
+  "THN": {
+   "01_Summary_Excel_Results": "1b4n4Yu5DxUT71bl3Opzuy8uM7XdDg6sg",
+   "02_Flux_Data": "1G1QYJ12FD7jU324p_G-nqxWWw2Wsq8Vb",
+   "03_Simulation_Outputs": "1YXf3zdsquAKXo98k6OSINewfrfumSGFI",
+   "04_Input_Decks": "1lNUxA_QdIsm5wd2Ku1WDpMrDDfLMe_Iu",
+   "05_Execution_Logs_and_Benchmarks": "1CVgMaS-oSB3m4Cm-CouBylJ-qFLExpjV"
+  }
+ },
+ "flux_samples": {
+  "IFRAC": {
+   "S1": "1sQ-l4Wd8ealOUhfv1WOv4ARiimwG3ar-",
+   "S2": "1oANt_MxtjC0ebBUWAHzlLbLrBG3jDDJh",
+   "S3": "1SVDpIjeSvRjXefe7Qqlipded49R5P9Bx",
+   "S4": "1X3i1nxl_YS_mTsPhJUofZ1Ap4Yk3RS45",
+   "S5": "1NVuUMBlgV35YGrnpYBAY8le28uHDm8nF",
+   "S6": "1JBKC1D950P-VDhFpklW4c0UKUgd9TtPJ",
+   "S7": "1f8Bwr2kebKMSdCGhgOxTL1L3_9r5xu3Y",
+   "S8": "1FGVjLL0B2qoUNjZkyyxdYQJ02-E3fBsg"
+  },
+  "KA": {
+   "S1": "1fCvcxn68VhsI_N64wc3mjVjXez_xdBKm",
+   "S2": "132G9NabEizHG0CHHnfK8JR1S4G67sgB0",
+   "S3": "1yVgRtcOx11kuBOz0QpglanWOp3eP6Ixb",
+   "S4": "1oXC0uXSO3vZAIbZAEiygDZkqC1dE3SI8",
+   "S5": "10weBs6Lvshkp8q5CXrp-yvt-ZrYGYSjM",
+   "S6": "1_m3la8jK33tRHEYdYTwJ_gUp_Z-grW4l",
+   "S7": "1qWa_hlwr8RQEVSiBuYy9eM9jDScjQIID",
+   "S8": "1WsC9SE8zqjU8aTHhSZ2mllBJZT_kxhER"
+  },
+  "SAFE": {
+   "S1": "1qFhsS49dUEeb1u0rzR_Ji2NSV_U8vR4z",
+   "S2": "1tRPgUNYmCi9FGM0GJFPqYSLGoO6gsdv8",
+   "S3": "1ebkCUTrC-wmQBkymIHmtH9aYntdjAi3P",
+   "S4": "1BceMXBXJhULUYEICEDNoNZ7VMaegnnuH",
+   "S5": "1RSU5NuZlA6tL-qOKV6JcjAyCh3hpvZwM",
+   "S6": "1mSTjLY0Jpl71R61dgd5VYteqD78m4Tb7",
+   "S7": "1raZ2PQIQJB9S6geUv1paJxobgwq9Zh8i",
+   "S8": "1vGVaDF7tEi-Nq9_bWYy1u_lLc-qMLmpl"
+  },
+  "SR": {
+   "BLANK": "1Z3EKl3JFGcIMjNycmiBqWB6WNpNukp8p",
+   "S1": "1WILRcJXTB6Pb0WAVeDfwNYJdK67fGmgf",
+   "S2": "1Oa7EWZXfBEisQiItiln-RRLyiA0WnuSl",
+   "S3": "12Q_I0bpMmk5VZVChn7C-u3ltb2OpNB6O",
+   "S4": "1TYdbZpx_0FLSHa27iROm5pxBtLKoqCV7",
+   "S5": "1E66pHaqRfEz9UZyQAVvMPubeYGiX-JBk",
+   "S6": "1YJAQZkVFMZBKKkChnMYOU23diPR9bwhH",
+   "S7": "1s1UNis03GvP7lVtOM9JpbYEvBtED1sAx",
+   "S8": "113mMXid9nqqiKw9cAwgdcaoLdHJp4Zrz"
+  },
+  "THN": {
+   "BLANK": "18eXajuS5yaOK1h0L-ggtlFGkF38QNEAt",
+   "S1": "1rI9_Wfex8sBVhwWBNia4WBU05T2BQMLx",
+   "S2": "14tm5rQ08ZTVGHEPobAHh7b3Al0b_ZbIy",
+   "S3": "1At5ykK2fGnUQ4g1oOwUKOkCC9Kv8NPVD",
+   "S4": "1hbz8S8ZFDbE2Dg9sTA31Z7QLeTKL8l2o",
+   "S5": "1D_wUenlSNTiMF2e17i7RikHgM-ZstHRo",
+   "S6": "1EcrpzxGk4ZRsPa-fOOflzReKrTMBlE2L",
+   "S7": "1eHoLCSBGLEsx1SwiBCWfeeXR91yY9wZS",
+   "S8": "1TWZ-KM7RcP9wk2f9aW4y7KDhknUCciaJ"
+  }
+ }
+}

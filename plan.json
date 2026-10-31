@@ -1,0 +1,1052 @@
+{
+ "67hao": {
+  "1": [
+   "SAFE/S1_30cm_15000keV",
+   "KA/S6_0p0492cm_10000keV",
+   "KA/S2_0p0737cm_6000keV",
+   "KA/S6_0p0354cm_3000keV",
+   "KA/S3_0p028cm_1000keV",
+   "SAFE/S8_30cm_300keV",
+   "KA/S6_0p000468cm_60keV",
+   "IFRAC/S3_0p000348cm_15keV"
+  ],
+  "2": [
+   "IFRAC/S4_0p15cm_15000keV",
+   "SAFE/S8_30cm_8000keV",
+   "SAFE/S4_30cm_5000keV",
+   "SR/S1_6cm_2000keV",
+   "SAFE/S5_30cm_800keV",
+   "KA/S3_0p015cm_300keV",
+   "IFRAC/S1_0p02cm_50keV",
+   "KA/S7_0p000043cm_15keV"
+  ],
+  "3": [
+   "KA/S7_0p0443cm_15000keV",
+   "SR/S3_4cm_8000keV",
+   "KA/S1_0p079cm_5000keV",
+   "SR/S4_4cm_2000keV",
+   "IFRAC/S8_0p0321cm_800keV",
+   "SAFE/S6_30cm_200keV",
+   "IFRAC/S8_0p00164cm_50keV",
+   "THN/S2_0p00123cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S2_4cm_14000keV",
+   "SR/S6_2cm_8000keV",
+   "SAFE/S2_30cm_4000keV",
+   "SR/S7_2cm_2000keV",
+   "SAFE/S3_30cm_600keV",
+   "KA/S3_0p011cm_200keV",
+   "SAFE/S7_30cm_40keV",
+   "THN/S5_0p000316cm_0p000025keV"
+  ],
+  "5": [
+   "SR/S5_2cm_14000keV",
+   "IFRAC/S1_0p196cm_8000keV",
+   "SR/S5_6cm_4000keV",
+   "IFRAC/S2_0p0856cm_2000keV",
+   "IFRAC/S6_0p031cm_600keV",
+   "SAFE/S4_30cm_100keV",
+   "IFRAC/S6_0p0014cm_40keV"
+  ],
+  "6": [
+   "SR/S8_1cm_14000keV",
+   "KA/S4_0p0672cm_8000keV",
+   "SR/S8_4cm_4000keV",
+   "KA/S5_0p0299cm_2000keV",
+   "SAFE/S1_30cm_500keV",
+   "KA/S3_0p00423cm_100keV",
+   "SAFE/S5_30cm_30keV"
+  ],
+  "7": [
+   "SR/S2_6cm_10000keV",
+   "SAFE/S6_30cm_6000keV",
+   "SR/S3_1cm_4000keV",
+   "SAFE/S7_30cm_1000keV",
+   "IFRAC/S4_0p0367cm_500keV",
+   "SAFE/S2_30cm_80keV",
+   "IFRAC/S5_0p000823cm_30keV"
+  ],
+  "8": [
+   "SR/S5_4cm_10000keV",
+   "SR/S1_4cm_6000keV",
+   "IFRAC/S6_0p0793cm_4000keV",
+   "SR/S2_4cm_1000keV",
+   "KA/S7_0p0128cm_500keV",
+   "KA/S2_0p00462cm_80keV",
+   "SAFE/S3_30cm_20keV"
+  ],
+  "9": [
+   "SR/S8_2cm_10000keV",
+   "SR/S4_2cm_6000keV",
+   "SR/BLANK_0cm_4000keV",
+   "SR/S5_2cm_1000keV",
+   "IFRAC/S2_0p0388cm_400keV",
+   "KA/S8_0p000622cm_80keV",
+   "IFRAC/S4_0p000497cm_20keV"
+  ],
+  "10": [
+   "IFRAC/S3_0p158cm_10000keV",
+   "SR/S7_1cm_6000keV",
+   "IFRAC/S3_0p0987cm_3000keV",
+   "SR/S8_1cm_1000keV",
+   "KA/S5_0p0125cm_400keV",
+   "IFRAC/S2_0p00533cm_60keV",
+   "SAFE/S1_30cm_15keV"
+  ]
+ },
+ "Bethwl": {
+  "1": [
+   "SAFE/S2_30cm_15000keV",
+   "KA/S7_0p0442cm_10000keV",
+   "KA/S3_0p0673cm_6000keV",
+   "KA/S7_0p0329cm_3000keV",
+   "KA/S4_0p0263cm_1000keV",
+   "IFRAC/S1_0p0406cm_300keV",
+   "KA/S7_0p00037cm_60keV",
+   "KA/S2_0p000311cm_15keV"
+  ],
+  "2": [
+   "KA/S1_0p121cm_15000keV",
+   "SR/S1_6cm_8000keV",
+   "SAFE/S5_30cm_5000keV",
+   "SR/S2_6cm_2000keV",
+   "SAFE/S6_30cm_800keV",
+   "KA/S4_0p0133cm_300keV",
+   "KA/S1_0p00999cm_50keV",
+   "KA/S8_0p000036cm_15keV"
+  ],
+  "3": [
+   "KA/S8_0p0399cm_15000keV",
+   "SR/S4_4cm_8000keV",
+   "IFRAC/S7_0p0785cm_5000keV",
+   "SR/S5_4cm_2000keV",
+   "KA/S1_0p0306cm_800keV",
+   "SAFE/S7_30cm_200keV",
+   "KA/S5_0p00144cm_50keV",
+   "THN/S4_0p00107cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S3_4cm_14000keV",
+   "SR/S7_2cm_8000keV",
+   "SAFE/S3_30cm_4000keV",
+   "SR/S8_2cm_2000keV",
+   "SAFE/S4_30cm_600keV",
+   "IFRAC/S7_0p0102cm_200keV",
+   "SAFE/S8_30cm_40keV",
+   "THN/S6_0p000262cm_0p000025keV"
+  ],
+  "5": [
+   "SR/S6_2cm_14000keV",
+   "IFRAC/S2_0p165cm_8000keV",
+   "SR/S6_6cm_4000keV",
+   "IFRAC/S3_0p0803cm_2000keV",
+   "IFRAC/S7_0p0287cm_600keV",
+   "SAFE/S5_30cm_100keV",
+   "IFRAC/S7_0p00113cm_40keV"
+  ],
+  "6": [
+   "SR/BLANK_0cm_14000keV",
+   "KA/S5_0p0503cm_8000keV",
+   "SR/S1_2cm_4000keV",
+   "KA/S6_0p0294cm_2000keV",
+   "SAFE/S2_30cm_500keV",
+   "IFRAC/S5_0p00387cm_100keV",
+   "SAFE/S6_30cm_30keV"
+  ],
+  "7": [
+   "SR/S3_6cm_10000keV",
+   "SAFE/S7_30cm_6000keV",
+   "SR/S4_1cm_4000keV",
+   "SAFE/S8_30cm_1000keV",
+   "IFRAC/S5_0p0287cm_500keV",
+   "SAFE/S3_30cm_80keV",
+   "KA/S4_0p000709cm_30keV"
+  ],
+  "8": [
+   "SR/S6_4cm_10000keV",
+   "SR/S2_4cm_6000keV",
+   "IFRAC/S7_0p0733cm_4000keV",
+   "SR/S3_4cm_1000keV",
+   "KA/S8_0p012cm_500keV",
+   "IFRAC/S4_0p00372cm_80keV",
+   "SAFE/S4_30cm_20keV"
+  ],
+  "9": [
+   "SR/S1_1cm_10000keV",
+   "SR/S5_2cm_6000keV",
+   "SAFE/S1_30cm_3000keV",
+   "SR/S6_2cm_1000keV",
+   "IFRAC/S3_0p0354cm_400keV",
+   "SAFE/S1_30cm_60keV",
+   "KA/S3_0p000372cm_20keV"
+  ],
+  "10": [
+   "IFRAC/S4_0p142cm_10000keV",
+   "SR/S8_1cm_6000keV",
+   "IFRAC/S4_0p092cm_3000keV",
+   "IFRAC/S1_0p0682cm_1000keV",
+   "KA/S6_0p012cm_400keV",
+   "IFRAC/S3_0p00289cm_60keV",
+   "SAFE/S2_30cm_15keV"
+  ]
+ },
+ "amdung": {
+  "1": [
+   "SAFE/S3_30cm_15000keV",
+   "KA/S8_0p0403cm_10000keV",
+   "KA/S4_0p0615cm_6000keV",
+   "KA/S8_0p031cm_3000keV",
+   "KA/S5_0p0209cm_1000keV",
+   "IFRAC/S2_0p0337cm_300keV",
+   "KA/S8_0p000303cm_60keV",
+   "IFRAC/S4_0p000232cm_15keV"
+  ],
+  "2": [
+   "IFRAC/S5_0p108cm_15000keV",
+   "SR/S2_6cm_8000keV",
+   "SAFE/S6_30cm_5000keV",
+   "SR/S3_6cm_2000keV",
+   "SAFE/S7_30cm_800keV",
+   "KA/S5_0p0101cm_300keV",
+   "IFRAC/S2_0p00996cm_50keV",
+   "THN/S1_0p0115cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S1_6cm_14000keV",
+   "SR/S5_4cm_8000keV",
+   "IFRAC/S8_0p0732cm_5000keV",
+   "SR/S6_4cm_2000keV",
+   "KA/S2_0p0268cm_800keV",
+   "SAFE/S8_30cm_200keV",
+   "KA/S6_0p0012cm_50keV",
+   "THN/S6_0p00105cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S4_4cm_14000keV",
+   "SR/S8_2cm_8000keV",
+   "SAFE/S4_30cm_4000keV",
+   "SR/S1_1cm_2000keV",
+   "SAFE/S5_30cm_600keV",
+   "KA/S4_0p00918cm_200keV",
+   "IFRAC/S1_0p0163cm_40keV",
+   "THN/S7_0p000212cm_0p000025keV"
+  ],
+  "5": [
+   "SR/S7_2cm_14000keV",
+   "IFRAC/S3_0p149cm_8000keV",
+   "SR/S7_6cm_4000keV",
+   "IFRAC/S4_0p0753cm_2000keV",
+   "IFRAC/S8_0p027cm_600keV",
+   "SAFE/S6_30cm_100keV",
+   "IFRAC/S8_0p000943cm_40keV"
+  ],
+  "6": [
+   "SAFE/S1_30cm_10000keV",
+   "KA/S6_0p0478cm_8000keV",
+   "SR/S2_2cm_4000keV",
+   "KA/S7_0p0275cm_2000keV",
+   "SAFE/S3_30cm_500keV",
+   "IFRAC/S6_0p00319cm_100keV",
+   "SAFE/S7_30cm_30keV"
+  ],
+  "7": [
+   "SR/S4_6cm_10000keV",
+   "SAFE/S8_30cm_6000keV",
+   "SR/S5_1cm_4000keV",
+   "SR/S1_6cm_1000keV",
+   "IFRAC/S6_0p0278cm_500keV",
+   "SAFE/S4_30cm_80keV",
+   "IFRAC/S6_0p000673cm_30keV"
+  ],
+  "8": [
+   "SR/S7_4cm_10000keV",
+   "SR/S3_4cm_6000keV",
+   "KA/S1_0p0705cm_4000keV",
+   "SR/S4_4cm_1000keV",
+   "SAFE/S1_30cm_400keV",
+   "KA/S3_0p00272cm_80keV",
+   "SAFE/S5_30cm_20keV"
+  ],
+  "9": [
+   "SR/S2_1cm_10000keV",
+   "SR/S6_2cm_6000keV",
+   "SAFE/S2_30cm_3000keV",
+   "SR/S7_2cm_1000keV",
+   "IFRAC/S4_0p0323cm_400keV",
+   "SAFE/S2_30cm_60keV",
+   "IFRAC/S5_0p000283cm_20keV"
+  ],
+  "10": [
+   "KA/S1_0p107cm_10000keV",
+   "IFRAC/S1_0p172cm_6000keV",
+   "IFRAC/S5_0p0724cm_3000keV",
+   "IFRAC/S2_0p0598cm_1000keV",
+   "KA/S7_0p0109cm_400keV",
+   "KA/S2_0p00267cm_60keV",
+   "SAFE/S3_30cm_15keV"
+  ]
+ },
+ "coredaohaojack": {
+  "1": [
+   "SAFE/S4_30cm_15000keV",
+   "SR/BLANK_0cm_10000keV",
+   "KA/S5_0p0469cm_6000keV",
+   "SAFE/S1_30cm_2000keV",
+   "KA/S6_0p0205cm_1000keV",
+   "IFRAC/S3_0p0299cm_300keV",
+   "SAFE/S1_30cm_50keV",
+   "KA/S3_0p000174cm_15keV"
+  ],
+  "2": [
+   "IFRAC/S6_0p0999cm_15000keV",
+   "SR/S3_6cm_8000keV",
+   "SAFE/S7_30cm_5000keV",
+   "SR/S4_6cm_2000keV",
+   "SAFE/S8_30cm_800keV",
+   "KA/S6_0p00947cm_300keV",
+   "IFRAC/S3_0p00652cm_50keV",
+   "THN/S1_0p00575cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S2_6cm_14000keV",
+   "SR/S6_4cm_8000keV",
+   "KA/S2_0p068cm_5000keV",
+   "SR/S7_4cm_2000keV",
+   "KA/S3_0p0251cm_800keV",
+   "IFRAC/S1_0p0351cm_200keV",
+   "KA/S7_0p000978cm_50keV",
+   "THN/S7_0p000847cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S5_4cm_14000keV",
+   "SR/S1_1cm_8000keV",
+   "SAFE/S5_30cm_4000keV",
+   "SR/S2_1cm_2000keV",
+   "SAFE/S6_30cm_600keV",
+   "IFRAC/S8_0p00893cm_200keV",
+   "KA/S1_0p00814cm_40keV",
+   "THN/S8_0p000177cm_0p000025keV"
+  ],
+  "5": [
+   "SR/S8_2cm_14000keV",
+   "IFRAC/S4_0p134cm_8000keV",
+   "SR/S8_6cm_4000keV",
+   "IFRAC/S5_0p0598cm_2000keV",
+   "KA/S1_0p0269cm_600keV",
+   "SAFE/S7_30cm_100keV",
+   "KA/S5_0p00085cm_40keV"
+  ],
+  "6": [
+   "SAFE/S2_30cm_10000keV",
+   "KA/S7_0p0433cm_8000keV",
+   "SR/S3_2cm_4000keV",
+   "KA/S8_0p0261cm_2000keV",
+   "SAFE/S4_30cm_500keV",
+   "KA/S4_0p00301cm_100keV",
+   "SAFE/S8_30cm_30keV"
+  ],
+  "7": [
+   "SR/S5_6cm_10000keV",
+   "SR/S1_6cm_6000keV",
+   "SR/S6_1cm_4000keV",
+   "SR/S2_6cm_1000keV",
+   "IFRAC/S7_0p0256cm_500keV",
+   "SAFE/S5_30cm_80keV",
+   "IFRAC/S7_0p00054cm_30keV"
+  ],
+  "8": [
+   "SR/S8_4cm_10000keV",
+   "SR/S4_4cm_6000keV",
+   "IFRAC/S8_0p0687cm_4000keV",
+   "SR/S5_4cm_1000keV",
+   "SAFE/S2_30cm_400keV",
+   "IFRAC/S5_0p00233cm_80keV",
+   "SAFE/S6_30cm_20keV"
+  ],
+  "9": [
+   "SR/S3_1cm_10000keV",
+   "SR/S7_2cm_6000keV",
+   "SAFE/S3_30cm_3000keV",
+   "SR/S8_2cm_1000keV",
+   "IFRAC/S5_0p025cm_400keV",
+   "SAFE/S3_30cm_60keV",
+   "KA/S4_0p000248cm_20keV"
+  ],
+  "10": [
+   "IFRAC/S5_0p104cm_10000keV",
+   "IFRAC/S2_0p147cm_6000keV",
+   "IFRAC/S6_0p0707cm_3000keV",
+   "IFRAC/S3_0p0561cm_1000keV",
+   "KA/S8_0p0101cm_400keV",
+   "IFRAC/S4_0p0019cm_60keV",
+   "SAFE/S4_30cm_15keV"
+  ]
+ },
+ "fewhourtorelax": {
+  "1": [
+   "SAFE/S5_30cm_15000keV",
+   "SAFE/S1_30cm_8000keV",
+   "KA/S6_0p045cm_6000keV",
+   "SAFE/S2_30cm_2000keV",
+   "KA/S7_0p0192cm_1000keV",
+   "IFRAC/S4_0p0267cm_300keV",
+   "SAFE/S2_30cm_50keV",
+   "IFRAC/S5_0p000131cm_15keV"
+  ],
+  "2": [
+   "KA/S2_0p0981cm_15000keV",
+   "SR/S4_6cm_8000keV",
+   "SAFE/S8_30cm_5000keV",
+   "SR/S5_6cm_2000keV",
+   "IFRAC/S1_0p0613cm_800keV",
+   "KA/S7_0p00849cm_300keV",
+   "KA/S2_0p00498cm_50keV",
+   "THN/S2_0p00493cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S3_6cm_14000keV",
+   "SR/S7_4cm_8000keV",
+   "KA/S3_0p0625cm_5000keV",
+   "SR/S8_4cm_2000keV",
+   "KA/S4_0p0234cm_800keV",
+   "IFRAC/S2_0p0266cm_200keV",
+   "KA/S8_0p00082cm_50keV",
+   "THN/S3_0p000764cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S6_4cm_14000keV",
+   "SR/S2_1cm_8000keV",
+   "SAFE/S6_30cm_4000keV",
+   "SR/S3_1cm_2000keV",
+   "SAFE/S7_30cm_600keV",
+   "KA/S5_0p0066cm_200keV",
+   "IFRAC/S2_0p00671cm_40keV",
+   "THN/BLANK_0cm_0p000025keV"
+  ],
+  "5": [
+   "SR/S1_1cm_14000keV",
+   "IFRAC/S5_0p101cm_8000keV",
+   "SR/S1_4cm_4000keV",
+   "IFRAC/S6_0p0587cm_2000keV",
+   "KA/S2_0p0234cm_600keV",
+   "SAFE/S8_30cm_100keV",
+   "KA/S6_0p000702cm_40keV"
+  ],
+  "6": [
+   "SAFE/S3_30cm_10000keV",
+   "KA/S8_0p0398cm_8000keV",
+   "SR/S4_2cm_4000keV",
+   "SR/BLANK_0cm_2000keV",
+   "SAFE/S5_30cm_500keV",
+   "IFRAC/S7_0p00257cm_100keV",
+   "IFRAC/S1_0p0109cm_30keV"
+  ],
+  "7": [
+   "SR/S6_6cm_10000keV",
+   "SR/S2_6cm_6000keV",
+   "SR/S7_1cm_4000keV",
+   "SR/S3_6cm_1000keV",
+   "KA/S1_0p0249cm_500keV",
+   "SAFE/S6_30cm_80keV",
+   "IFRAC/S8_0p000448cm_30keV"
+  ],
+  "8": [
+   "SR/S1_2cm_10000keV",
+   "SR/S5_4cm_6000keV",
+   "KA/S2_0p0611cm_4000keV",
+   "SR/S6_4cm_1000keV",
+   "SAFE/S3_30cm_400keV",
+   "IFRAC/S6_0p00189cm_80keV",
+   "SAFE/S7_30cm_20keV"
+  ],
+  "9": [
+   "SR/S4_1cm_10000keV",
+   "SR/S8_2cm_6000keV",
+   "SAFE/S4_30cm_3000keV",
+   "SR/S1_1cm_1000keV",
+   "IFRAC/S6_0p024cm_400keV",
+   "SAFE/S4_30cm_60keV",
+   "IFRAC/S6_0p000231cm_20keV"
+  ],
+  "10": [
+   "IFRAC/S6_0p0984cm_10000keV",
+   "IFRAC/S3_0p135cm_6000keV",
+   "IFRAC/S7_0p0658cm_3000keV",
+   "IFRAC/S4_0p0526cm_1000keV",
+   "SAFE/S1_30cm_300keV",
+   "KA/S3_0p00144cm_60keV",
+   "SAFE/S5_30cm_15keV"
+  ]
+ },
+ "haohue27": {
+  "1": [
+   "SAFE/S6_30cm_15000keV",
+   "SAFE/S2_30cm_8000keV",
+   "KA/S7_0p0411cm_6000keV",
+   "SAFE/S3_30cm_2000keV",
+   "KA/S8_0p0182cm_1000keV",
+   "KA/S1_0p0203cm_300keV",
+   "SAFE/S3_30cm_50keV",
+   "KA/S4_0p000116cm_15keV"
+  ],
+  "2": [
+   "IFRAC/S7_0p0885cm_15000keV",
+   "SR/S5_6cm_8000keV",
+   "IFRAC/S1_0p158cm_5000keV",
+   "SR/S6_6cm_2000keV",
+   "IFRAC/S2_0p0536cm_800keV",
+   "KA/S8_0p00772cm_300keV",
+   "IFRAC/S4_0p0047cm_50keV",
+   "THN/S3_0p00306cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S4_6cm_14000keV",
+   "SR/S8_4cm_8000keV",
+   "KA/S4_0p0575cm_5000keV",
+   "SR/S1_2cm_2000keV",
+   "KA/S5_0p0186cm_800keV",
+   "IFRAC/S3_0p0219cm_200keV",
+   "SAFE/S1_30cm_40keV",
+   "THN/S8_0p000707cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S7_4cm_14000keV",
+   "SR/S3_1cm_8000keV",
+   "SAFE/S7_30cm_4000keV",
+   "SR/S4_1cm_2000keV",
+   "SAFE/S8_30cm_600keV",
+   "KA/S6_0p00591cm_200keV",
+   "IFRAC/S3_0p00411cm_40keV"
+  ],
+  "5": [
+   "SR/S2_1cm_14000keV",
+   "KA/S1_0p0979cm_8000keV",
+   "SR/S2_4cm_4000keV",
+   "IFRAC/S7_0p055cm_2000keV",
+   "KA/S3_0p0218cm_600keV",
+   "IFRAC/S1_0p0279cm_100keV",
+   "KA/S7_0p000566cm_40keV"
+  ],
+  "6": [
+   "SAFE/S4_30cm_10000keV",
+   "SR/BLANK_0cm_8000keV",
+   "SR/S5_2cm_4000keV",
+   "SAFE/S1_30cm_1000keV",
+   "SAFE/S6_30cm_500keV",
+   "IFRAC/S8_0p00214cm_100keV",
+   "KA/S1_0p00545cm_30keV"
+  ],
+  "7": [
+   "SR/S7_6cm_10000keV",
+   "SR/S3_6cm_6000keV",
+   "SR/S8_1cm_4000keV",
+   "SR/S4_6cm_1000keV",
+   "IFRAC/S8_0p024cm_500keV",
+   "SAFE/S7_30cm_80keV",
+   "KA/S5_0p000411cm_30keV"
+  ],
+  "8": [
+   "SR/S2_2cm_10000keV",
+   "SR/S6_4cm_6000keV",
+   "KA/S3_0p0566cm_4000keV",
+   "SR/S7_4cm_1000keV",
+   "SAFE/S4_30cm_400keV",
+   "KA/S4_0p00186cm_80keV",
+   "SAFE/S8_30cm_20keV"
+  ],
+  "9": [
+   "SR/S5_1cm_10000keV",
+   "SR/S1_1cm_6000keV",
+   "SAFE/S5_30cm_3000keV",
+   "SR/S2_1cm_1000keV",
+   "KA/S1_0p0227cm_400keV",
+   "SAFE/S5_30cm_60keV",
+   "IFRAC/S7_0p000185cm_20keV"
+  ],
+  "10": [
+   "KA/S2_0p0888cm_10000keV",
+   "IFRAC/S4_0p123cm_6000keV",
+   "IFRAC/S8_0p0621cm_3000keV",
+   "IFRAC/S5_0p0418cm_1000keV",
+   "SAFE/S2_30cm_300keV",
+   "IFRAC/S5_0p00117cm_60keV",
+   "SAFE/S6_30cm_15keV"
+  ]
+ },
+ "haoidle4zk": {
+  "1": [
+   "SAFE/S7_30cm_15000keV",
+   "SAFE/S3_30cm_8000keV",
+   "KA/S8_0p0381cm_6000keV",
+   "SAFE/S4_30cm_2000keV",
+   "SR/BLANK_0cm_1000keV",
+   "IFRAC/S5_0p0202cm_300keV",
+   "SAFE/S4_30cm_50keV",
+   "IFRAC/S6_0p000107cm_15keV"
+  ],
+  "2": [
+   "KA/S3_0p0855cm_15000keV",
+   "SR/S6_6cm_8000keV",
+   "IFRAC/S2_0p136cm_5000keV",
+   "SR/S7_6cm_2000keV",
+   "IFRAC/S3_0p0502cm_800keV",
+   "SAFE/S1_30cm_200keV",
+   "KA/S3_0p00326cm_50keV",
+   "THN/S1_0p00288cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S5_6cm_14000keV",
+   "SR/S1_2cm_8000keV",
+   "KA/S5_0p0443cm_5000keV",
+   "SR/S2_2cm_2000keV",
+   "KA/S6_0p0182cm_800keV",
+   "IFRAC/S4_0p0184cm_200keV",
+   "SAFE/S2_30cm_40keV",
+   "THN/S5_0p000632cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S8_4cm_14000keV",
+   "SR/S4_1cm_8000keV",
+   "SAFE/S8_30cm_4000keV",
+   "SR/S5_1cm_2000keV",
+   "IFRAC/S1_0p0538cm_600keV",
+   "KA/S7_0p00508cm_200keV",
+   "KA/S2_0p00335cm_40keV"
+  ],
+  "5": [
+   "SR/S3_1cm_14000keV",
+   "IFRAC/S6_0p0956cm_8000keV",
+   "SR/S3_4cm_4000keV",
+   "IFRAC/S8_0p0522cm_2000keV",
+   "KA/S4_0p0202cm_600keV",
+   "KA/S1_0p014cm_100keV",
+   "KA/S8_0p000472cm_40keV"
+  ],
+  "6": [
+   "SAFE/S5_30cm_10000keV",
+   "SAFE/S1_30cm_6000keV",
+   "SR/S6_2cm_4000keV",
+   "SAFE/S2_30cm_1000keV",
+   "SAFE/S7_30cm_500keV",
+   "KA/S5_0p00194cm_100keV",
+   "IFRAC/S2_0p00362cm_30keV"
+  ],
+  "7": [
+   "SR/S8_6cm_10000keV",
+   "SR/S4_6cm_6000keV",
+   "IFRAC/S1_0p141cm_4000keV",
+   "SR/S5_6cm_1000keV",
+   "KA/S2_0p0215cm_500keV",
+   "SAFE/S8_30cm_80keV",
+   "KA/S6_0p000337cm_30keV"
+  ],
+  "8": [
+   "SR/S3_2cm_10000keV",
+   "SR/S7_4cm_6000keV",
+   "KA/S4_0p0525cm_4000keV",
+   "SR/S8_4cm_1000keV",
+   "SAFE/S5_30cm_400keV",
+   "IFRAC/S7_0p00151cm_80keV",
+   "IFRAC/S1_0p00467cm_20keV"
+  ],
+  "9": [
+   "SR/S6_1cm_10000keV",
+   "SR/S2_1cm_6000keV",
+   "SAFE/S6_30cm_3000keV",
+   "SR/S3_1cm_1000keV",
+   "IFRAC/S7_0p0219cm_400keV",
+   "SAFE/S6_30cm_60keV",
+   "IFRAC/S8_0p000153cm_20keV"
+  ],
+  "10": [
+   "IFRAC/S7_0p0884cm_10000keV",
+   "IFRAC/S5_0p0938cm_6000keV",
+   "KA/S1_0p0606cm_3000keV",
+   "IFRAC/S6_0p041cm_1000keV",
+   "SAFE/S3_30cm_300keV",
+   "KA/S4_0p000952cm_60keV",
+   "SAFE/S7_30cm_15keV"
+  ]
+ },
+ "haoidlemystic1": {
+  "1": [
+   "SAFE/S8_30cm_15000keV",
+   "SAFE/S4_30cm_8000keV",
+   "SR/BLANK_0cm_6000keV",
+   "SAFE/S5_30cm_2000keV",
+   "SAFE/S1_30cm_800keV",
+   "IFRAC/S6_0p0189cm_300keV",
+   "SAFE/S5_30cm_50keV",
+   "IFRAC/S7_0p000086cm_15keV"
+  ],
+  "2": [
+   "IFRAC/S8_0p0798cm_15000keV",
+   "SR/S7_6cm_8000keV",
+   "IFRAC/S3_0p125cm_5000keV",
+   "SR/S8_6cm_2000keV",
+   "IFRAC/S4_0p0469cm_800keV",
+   "SAFE/S2_30cm_200keV",
+   "IFRAC/S5_0p00288cm_50keV",
+   "THN/S2_0p00247cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S6_6cm_14000keV",
+   "SR/S2_2cm_8000keV",
+   "KA/S6_0p0427cm_5000keV",
+   "SR/S3_2cm_2000keV",
+   "KA/S7_0p017cm_800keV",
+   "KA/S1_0p0176cm_200keV",
+   "SAFE/S3_30cm_40keV",
+   "THN/S4_0p000535cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S1_2cm_14000keV",
+   "SR/S5_1cm_8000keV",
+   "SR/S1_6cm_4000keV",
+   "SR/S6_1cm_2000keV",
+   "IFRAC/S2_0p0468cm_600keV",
+   "KA/S8_0p00446cm_200keV",
+   "IFRAC/S4_0p00286cm_40keV"
+  ],
+  "5": [
+   "SR/S4_1cm_14000keV",
+   "IFRAC/S7_0p0866cm_8000keV",
+   "SR/S4_4cm_4000keV",
+   "KA/S1_0p0488cm_2000keV",
+   "KA/S5_0p0159cm_600keV",
+   "IFRAC/S2_0p0132cm_100keV",
+   "SAFE/S1_30cm_30keV"
+  ],
+  "6": [
+   "SAFE/S6_30cm_10000keV",
+   "SAFE/S2_30cm_6000keV",
+   "SR/S7_2cm_4000keV",
+   "SAFE/S3_30cm_1000keV",
+   "SAFE/S8_30cm_500keV",
+   "KA/S6_0p0016cm_100keV",
+   "IFRAC/S3_0p00209cm_30keV"
+  ],
+  "7": [
+   "SR/S1_4cm_10000keV",
+   "SR/S5_6cm_6000keV",
+   "IFRAC/S2_0p122cm_4000keV",
+   "SR/S6_6cm_1000keV",
+   "KA/S3_0p0199cm_500keV",
+   "IFRAC/S1_0p0258cm_80keV",
+   "KA/S7_0p00027cm_30keV"
+  ],
+  "8": [
+   "SR/S4_2cm_10000keV",
+   "SR/S8_4cm_6000keV",
+   "KA/S5_0p0408cm_4000keV",
+   "SR/S1_2cm_1000keV",
+   "SAFE/S6_30cm_400keV",
+   "IFRAC/S8_0p00124cm_80keV",
+   "KA/S1_0p00233cm_20keV"
+  ],
+  "9": [
+   "SR/S7_1cm_10000keV",
+   "SR/S3_1cm_6000keV",
+   "SAFE/S7_30cm_3000keV",
+   "SR/S4_1cm_1000keV",
+   "IFRAC/S8_0p0203cm_400keV",
+   "SAFE/S7_30cm_60keV",
+   "KA/S5_0p000141cm_20keV"
+  ],
+  "10": [
+   "IFRAC/S8_0p0807cm_10000keV",
+   "IFRAC/S6_0p09cm_6000keV",
+   "KA/S2_0p0529cm_3000keV",
+   "IFRAC/S7_0p0384cm_1000keV",
+   "SAFE/S4_30cm_300keV",
+   "IFRAC/S6_0p000936cm_60keV",
+   "SAFE/S8_30cm_15keV"
+  ]
+ },
+ "laolaolaoma09": {
+  "1": [
+   "IFRAC/S1_0p242cm_15000keV",
+   "SAFE/S5_30cm_8000keV",
+   "SAFE/S1_30cm_5000keV",
+   "SAFE/S6_30cm_2000keV",
+   "SAFE/S2_30cm_800keV",
+   "IFRAC/S7_0p017cm_300keV",
+   "SAFE/S6_30cm_50keV",
+   "IFRAC/S8_0p000071cm_15keV"
+  ],
+  "2": [
+   "KA/S4_0p075cm_15000keV",
+   "SR/S8_6cm_8000keV",
+   "IFRAC/S4_0p115cm_5000keV",
+   "SR/S1_4cm_2000keV",
+   "IFRAC/S5_0p0371cm_800keV",
+   "SAFE/S3_30cm_200keV",
+   "IFRAC/S6_0p0024cm_50keV",
+   "THN/S4_0p00214cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S7_6cm_14000keV",
+   "SR/S3_2cm_8000keV",
+   "KA/S7_0p0393cm_5000keV",
+   "SR/S4_2cm_2000keV",
+   "KA/S8_0p016cm_800keV",
+   "KA/S2_0p0133cm_200keV",
+   "SAFE/S4_30cm_40keV",
+   "THN/S6_0p000524cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S2_2cm_14000keV",
+   "SR/S6_1cm_8000keV",
+   "SR/S2_6cm_4000keV",
+   "SR/S7_1cm_2000keV",
+   "IFRAC/S3_0p0435cm_600keV",
+   "SAFE/S1_30cm_100keV",
+   "KA/S3_0p00205cm_40keV"
+  ],
+  "5": [
+   "SR/S5_1cm_14000keV",
+   "KA/S2_0p0825cm_8000keV",
+   "SR/S5_4cm_4000keV",
+   "KA/S2_0p0428cm_2000keV",
+   "KA/S6_0p0155cm_600keV",
+   "IFRAC/S3_0p00846cm_100keV",
+   "SAFE/S2_30cm_30keV"
+  ],
+  "6": [
+   "SAFE/S7_30cm_10000keV",
+   "SAFE/S3_30cm_6000keV",
+   "SR/S8_2cm_4000keV",
+   "SAFE/S4_30cm_1000keV",
+   "IFRAC/S1_0p0498cm_500keV",
+   "KA/S7_0p00129cm_100keV",
+   "KA/S2_0p00181cm_30keV"
+  ],
+  "7": [
+   "SR/S2_4cm_10000keV",
+   "SR/S6_6cm_6000keV",
+   "IFRAC/S3_0p113cm_4000keV",
+   "SR/S7_6cm_1000keV",
+   "KA/S4_0p0183cm_500keV",
+   "KA/S1_0p0129cm_80keV",
+   "KA/S8_0p000224cm_30keV"
+  ],
+  "8": [
+   "SR/S5_2cm_10000keV",
+   "SR/S1_2cm_6000keV",
+   "KA/S6_0p0396cm_4000keV",
+   "SR/S2_2cm_1000keV",
+   "SAFE/S7_30cm_400keV",
+   "KA/S5_0p00116cm_80keV",
+   "IFRAC/S2_0p00133cm_20keV"
+  ],
+  "9": [
+   "SR/S8_1cm_10000keV",
+   "SR/S4_1cm_6000keV",
+   "SAFE/S8_30cm_3000keV",
+   "SR/S5_1cm_1000keV",
+   "KA/S2_0p0194cm_400keV",
+   "SAFE/S8_30cm_60keV",
+   "KA/S6_0p000115cm_20keV"
+  ],
+  "10": [
+   "KA/S3_0p0792cm_10000keV",
+   "KA/S1_0p0862cm_6000keV",
+   "KA/S3_0p0493cm_3000keV",
+   "IFRAC/S8_0p0364cm_1000keV",
+   "SAFE/S5_30cm_300keV",
+   "IFRAC/S7_0p00074cm_60keV",
+   "IFRAC/S1_0p0022cm_15keV"
+  ]
+ },
+ "vuicho": {
+  "1": [
+   "IFRAC/S2_0p196cm_15000keV",
+   "SAFE/S6_30cm_8000keV",
+   "SAFE/S2_30cm_5000keV",
+   "SAFE/S7_30cm_2000keV",
+   "SAFE/S3_30cm_800keV",
+   "KA/S2_0p0168cm_300keV",
+   "SAFE/S7_30cm_50keV",
+   "KA/S5_0p000066cm_15keV"
+  ],
+  "2": [
+   "KA/S5_0p0538cm_15000keV",
+   "SR/S1_4cm_8000keV",
+   "IFRAC/S5_0p0886cm_5000keV",
+   "SR/S2_4cm_2000keV",
+   "IFRAC/S6_0p0364cm_800keV",
+   "SAFE/S4_30cm_200keV",
+   "KA/S4_0p00235cm_50keV",
+   "THN/S3_0p00153cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S8_6cm_14000keV",
+   "SR/S4_2cm_8000keV",
+   "KA/S8_0p0366cm_5000keV",
+   "SR/S5_2cm_2000keV",
+   "SAFE/S1_30cm_600keV",
+   "IFRAC/S5_0p0132cm_200keV",
+   "SAFE/S5_30cm_40keV",
+   "THN/S7_0p000423cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S3_2cm_14000keV",
+   "SR/S7_1cm_8000keV",
+   "SR/S3_6cm_4000keV",
+   "SR/S8_1cm_2000keV",
+   "IFRAC/S4_0p0404cm_600keV",
+   "SAFE/S2_30cm_100keV",
+   "IFRAC/S5_0p0017cm_40keV"
+  ],
+  "5": [
+   "SR/S6_1cm_14000keV",
+   "IFRAC/S8_0p0795cm_8000keV",
+   "SR/S6_4cm_4000keV",
+   "KA/S3_0p0402cm_2000keV",
+   "KA/S7_0p0144cm_600keV",
+   "KA/S2_0p0066cm_100keV",
+   "SAFE/S3_30cm_30keV"
+  ],
+  "6": [
+   "SAFE/S8_30cm_10000keV",
+   "SAFE/S4_30cm_6000keV",
+   "SR/S1_1cm_4000keV",
+   "SAFE/S5_30cm_1000keV",
+   "IFRAC/S2_0p043cm_500keV",
+   "KA/S8_0p00107cm_100keV",
+   "IFRAC/S4_0p00142cm_30keV"
+  ],
+  "7": [
+   "SR/S3_4cm_10000keV",
+   "SR/S7_6cm_6000keV",
+   "IFRAC/S4_0p105cm_4000keV",
+   "SR/S8_6cm_1000keV",
+   "KA/S5_0p0144cm_500keV",
+   "IFRAC/S2_0p00924cm_80keV",
+   "SAFE/S1_30cm_20keV"
+  ],
+  "8": [
+   "SR/S6_2cm_10000keV",
+   "SR/S2_2cm_6000keV",
+   "KA/S7_0p0366cm_4000keV",
+   "SR/S3_2cm_1000keV",
+   "SAFE/S8_30cm_400keV",
+   "KA/S6_0p000945cm_80keV",
+   "IFRAC/S3_0p000744cm_20keV"
+  ],
+  "9": [
+   "IFRAC/S1_0p213cm_10000keV",
+   "SR/S5_1cm_6000keV",
+   "IFRAC/S1_0p121cm_3000keV",
+   "SR/S6_1cm_1000keV",
+   "KA/S3_0p0177cm_400keV",
+   "IFRAC/S1_0p0225cm_60keV",
+   "KA/S7_0p000092cm_20keV"
+  ],
+  "10": [
+   "KA/S4_0p0708cm_10000keV",
+   "IFRAC/S7_0p0822cm_6000keV",
+   "KA/S4_0p046cm_3000keV",
+   "KA/S1_0p0341cm_1000keV",
+   "SAFE/S6_30cm_300keV",
+   "IFRAC/S8_0p000607cm_60keV",
+   "KA/S1_0p0011cm_15keV"
+  ]
+ },
+ "zotactothesun": {
+  "1": [
+   "IFRAC/S3_0p171cm_15000keV",
+   "SAFE/S7_30cm_8000keV",
+   "SAFE/S3_30cm_5000keV",
+   "SAFE/S8_30cm_2000keV",
+   "SAFE/S4_30cm_800keV",
+   "IFRAC/S8_0p0154cm_300keV",
+   "SAFE/S8_30cm_50keV",
+   "KA/S6_0p000054cm_15keV"
+  ],
+  "2": [
+   "KA/S6_0p0499cm_15000keV",
+   "SR/S2_4cm_8000keV",
+   "IFRAC/S6_0p0854cm_5000keV",
+   "SR/S3_4cm_2000keV",
+   "IFRAC/S7_0p0339cm_800keV",
+   "SAFE/S5_30cm_200keV",
+   "IFRAC/S7_0p00196cm_50keV",
+   "THN/S5_0p00126cm_0p000025keV"
+  ],
+  "3": [
+   "SR/S1_4cm_14000keV",
+   "SR/S5_2cm_8000keV",
+   "SAFE/S1_30cm_4000keV",
+   "SR/S6_2cm_2000keV",
+   "SAFE/S2_30cm_600keV",
+   "IFRAC/S6_0p0118cm_200keV",
+   "SAFE/S6_30cm_40keV",
+   "THN/S8_0p000354cm_0p000025keV"
+  ],
+  "4": [
+   "SR/S4_2cm_14000keV",
+   "SR/S8_1cm_8000keV",
+   "SR/S4_6cm_4000keV",
+   "IFRAC/S1_0p0975cm_2000keV",
+   "IFRAC/S5_0p0318cm_600keV",
+   "SAFE/S3_30cm_100keV",
+   "KA/S4_0p00143cm_40keV"
+  ],
+  "5": [
+   "SR/S7_1cm_14000keV",
+   "KA/S3_0p0744cm_8000keV",
+   "SR/S7_4cm_4000keV",
+   "KA/S4_0p0377cm_2000keV",
+   "KA/S8_0p0135cm_600keV",
+   "IFRAC/S4_0p00602cm_100keV",
+   "SAFE/S4_30cm_30keV"
+  ],
+  "6": [
+   "SR/S1_6cm_10000keV",
+   "SAFE/S5_30cm_6000keV",
+   "SR/S2_1cm_4000keV",
+   "SAFE/S6_30cm_1000keV",
+   "IFRAC/S3_0p0397cm_500keV",
+   "SAFE/S1_30cm_80keV",
+   "KA/S3_0p00105cm_30keV"
+  ],
+  "7": [
+   "SR/S4_4cm_10000keV",
+   "SR/S8_6cm_6000keV",
+   "IFRAC/S5_0p0816cm_4000keV",
+   "SR/S1_4cm_1000keV",
+   "KA/S6_0p0139cm_500keV",
+   "IFRAC/S3_0p00544cm_80keV",
+   "SAFE/S2_30cm_20keV"
+  ],
+  "8": [
+   "SR/S7_2cm_10000keV",
+   "SR/S3_2cm_6000keV",
+   "KA/S8_0p0344cm_4000keV",
+   "SR/S4_2cm_1000keV",
+   "IFRAC/S1_0p0454cm_400keV",
+   "KA/S7_0p000753cm_80keV",
+   "KA/S2_0p000665cm_20keV"
+  ],
+  "9": [
+   "IFRAC/S2_0p178cm_10000keV",
+   "SR/S6_1cm_6000keV",
+   "IFRAC/S2_0p106cm_3000keV",
+   "SR/S7_1cm_1000keV",
+   "KA/S4_0p0161cm_400keV",
+   "KA/S1_0p0113cm_60keV",
+   "KA/S8_0p000077cm_20keV"
+  ],
+  "10": [
+   "KA/S5_0p0522cm_10000keV",
+   "IFRAC/S8_0p0763cm_6000keV",
+   "KA/S5_0p0362cm_3000keV",
+   "KA/S2_0p0299cm_1000keV",
+   "SAFE/S7_30cm_300keV",
+   "KA/S5_0p000585cm_60keV",
+   "IFRAC/S2_0p000622cm_15keV"
+  ]
+ }
+}

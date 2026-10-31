@@ -1,0 +1,62 @@
+Paper 10.1 IFRAC - S8 @ 8000 keV, la mau 0.0795 cm (mu*x ~ 0.01)
+
+[ Parameters ]
+icntl    = 0
+nucdata  = 0
+negs     = -1
+maxcas   = 1000000
+maxbch   = 1
+file(6)  = phits_S8_0p0795cm_8000keV.out
+
+[ Source ]
+s-type   = 1
+proj     = photon
+e0       = 8.000000
+x0 = 0.0
+y0 = 0.0
+z0 = -1.0
+z1 = -1.0
+r0 = 0.0
+dir      = 1.0
+
+[ Material ]
+m2    5000.00c  -0.13976
+      8000.00c  -0.43837
+      14000.00c  -0.04674
+      20000.00c  -0.07147
+      64000.00c  -0.30366
+
+[ Surface ]
+11  pz   0.0
+12  pz   0.0795
+22  cz   5.0
+99  so  50.0
+
+[ Cell ]
+101   2 -4.4110   11 -12 -22
+108   0   -99 #101
+110  -1    99
+
+[ Volume ]
+reg  vol
+101  6.243915e+00
+
+[ T-Track ]
+title  = thong luong photon x tiet dien rieng phan cua thu vien (MT -1 Compton, -2 Rayleigh, -3 PE, -4 tao cap, -5 tong)
+mesh   = reg
+reg    = 101
+part   = photon
+unit   = 1
+e-type = 2
+ne     = 1
+emin   = 7.920000
+emax   = 8.080000
+axis   = reg
+file   = rate_S8_0p0795cm_8000keV.out
+multiplier = all
+part = photon
+emax = 100
+mat   mset1       mset2       mset3       mset4       mset5
+all   ( 1 2 -1 )  ( 1 2 -2 )  ( 1 2 -3 )  ( 1 2 -4 )  ( 1 2 -5 )
+
+[ End ]

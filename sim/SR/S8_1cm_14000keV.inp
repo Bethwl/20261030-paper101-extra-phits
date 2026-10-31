@@ -1,0 +1,97 @@
+Paper 10.1 SR - S8 @ 14000 keV, mau 1 cm, notron chum but chi
+
+[ Parameters ]
+icntl    = 0
+nucdata  = 1
+maxcas   = 1000000
+maxbch   = 1
+file(6)  = phits_S8_1cm_14000keV.out
+
+[ Source ]
+s-type   = 1
+proj     = neutron
+e0       = 1.400000e+01
+x0 = 0.0
+y0 = 0.0
+z0 = -1.0
+z1 = -1.0
+r0 = 0.0
+dir      = 1.0
+
+[ Material ]
+m2    B  -0.13976
+      O  -0.43837
+      Si  -0.04674
+      Ca  -0.07147
+      Gd  -0.30366
+
+[ Surface ]
+11  pz   0.0
+12  pz   1
+22  cz   5.0
+31  pz 100.0
+32  pz 100.01
+33  cz   0.05
+98  so 150.0
+99  so 151.0
+
+[ Cell ]
+101   2 -4.4110   11 -12 -22
+201   0   31 -32 -33
+108   0   -98 #201 #101
+300   0   98 -99
+110  -1    99
+
+[ Volume ]
+reg  vol
+101  7.853982e+01
+201  7.853982e-05
+
+[ T-Track ]
+title  = notron chua va cham toi dia r=0.05 cm o z=100
+mesh   = reg
+reg    = 201
+part   = neutron
+unit   = 1
+e-type = 2
+ne     = 1
+emin   = 0.0
+emax   = 1.470000e+01
+axis   = reg
+file   = unc_S8_1cm_14000keV.out
+
+[ T-Cross ]
+title  = notron thoat ra vo cau r=150 (moi huong)
+mesh   = reg
+reg    = 1
+non  r-from  r-to  area
+1    108     300   1.0
+part   = neutron
+unit   = 1
+e-type = 2
+ne     = 1
+emin   = 0.0
+emax   = 1.470000e+01
+axis   = reg
+output = current
+file   = esc_S8_1cm_14000keV.out
+
+[ T-Track ]
+title  = thong luong notron chua va cham trong mau x tiet dien thu vien (mset1 tong, mset2 hap thu, mset3 dan hoi)
+mesh   = reg
+reg    = 101
+part   = neutron
+unit   = 1
+e-type = 2
+ne     = 1
+emin   = 1.386000e+01
+emax   = 1.414000e+01
+axis   = reg
+file   = xs_S8_1cm_14000keV.out
+multiplier = all
+part = neutron
+emax = 20
+mat   mset1       mset2       mset3
+all   ( 1 2 -1 )  ( 1 2 -2 )  ( 1 2 -3 )
+
+[ End ]

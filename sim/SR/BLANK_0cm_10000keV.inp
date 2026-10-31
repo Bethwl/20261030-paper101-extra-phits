@@ -1,0 +1,73 @@
+Paper 10.1 SR - BLANK @ 10000 keV, mau 0 cm, notron chum but chi
+
+[ Parameters ]
+icntl    = 0
+nucdata  = 1
+maxcas   = 1000000
+maxbch   = 1
+file(6)  = phits_BLANK_0cm_10000keV.out
+
+[ Source ]
+s-type   = 1
+proj     = neutron
+e0       = 1.000000e+01
+x0 = 0.0
+y0 = 0.0
+z0 = -1.0
+z1 = -1.0
+r0 = 0.0
+dir      = 1.0
+
+[ Material ]
+m2    O  1.0
+
+[ Surface ]
+11  pz   0.0
+12  pz   0.0001
+22  cz   5.0
+31  pz 100.0
+32  pz 100.01
+33  cz   0.05
+98  so 150.0
+99  so 151.0
+
+[ Cell ]
+201   0   31 -32 -33
+108   0   -98 #201
+300   0   98 -99
+110  -1    99
+
+[ Volume ]
+reg  vol
+201  7.853982e-05
+
+[ T-Track ]
+title  = notron chua va cham toi dia r=0.05 cm o z=100
+mesh   = reg
+reg    = 201
+part   = neutron
+unit   = 1
+e-type = 2
+ne     = 1
+emin   = 0.0
+emax   = 1.050000e+01
+axis   = reg
+file   = unc_BLANK_0cm_10000keV.out
+
+[ T-Cross ]
+title  = notron thoat ra vo cau r=150 (moi huong)
+mesh   = reg
+reg    = 1
+non  r-from  r-to  area
+1    108     300   1.0
+part   = neutron
+unit   = 1
+e-type = 2
+ne     = 1
+emin   = 0.0
+emax   = 1.050000e+01
+axis   = reg
+output = current
+file   = esc_BLANK_0cm_10000keV.out
+
+[ End ]

@@ -1,0 +1,81 @@
+Paper 10.1 KA - S2 @ 2000 keV, khong khi 10 cm + la mau 0.0428 cm
+
+[ Parameters ]
+icntl    = 0
+nucdata  = 0
+negs     = -1
+maxcas   = 10000000
+maxbch   = 1
+file(6)  = phits_S2_0p0428cm_2000keV.out
+
+[ Source ]
+s-type   = 1
+proj     = photon
+e0       = 2.000000
+x0 = 0.0
+y0 = 0.0
+z0 = -21.0
+z1 = -21.0
+r0 = 0.0
+dir      = 1.0
+
+[ Material ]
+m2    3000.00c  -0.18583
+      5000.00c  -0.12423
+      8000.00c  -0.57335
+      13000.00c  -0.02646
+      14000.00c  -0.04674
+      64000.00c  -0.04338
+m3    7000.00c  -0.755268
+      8000.00c  -0.231781
+      18000.00c -0.012827
+      6000.00c  -0.000124
+
+[ Surface ]
+1   pz -20.0
+2   pz -10.0
+11  pz   0.0
+12  pz   0.0428
+22  cz   5.0
+99  so  50.0
+
+[ Cell ]
+100   3 -0.001205   1 -2 -22
+101   2 -2.7250   11 -12 -22
+108   0   -99 #100 #101
+110  -1    99
+
+[ T-Deposit ]
+title  = nang luong lang dong (xap xi kerma) - khong khi va mau
+mesh   = reg
+reg    = 100 101
+part   = all
+unit   = 2
+axis   = reg
+output = dose
+file   = dep_S2_0p0428cm_2000keV.out
+
+[ Volume ]
+reg  vol
+100  7.853982e+02
+101  3.361504e+00
+
+[ T-Track ]
+title  = thong luong photon trong khong khi x he so kerma thu vien (mset1 khong khi, mset2 mau)
+mesh   = reg
+reg    = 100
+part   = photon
+unit   = 1
+e-type = 2
+ne     = 1
+emin   = 1.980000
+emax   = 2.020000
+axis   = reg
+file   = kerma_S2_0p0428cm_2000keV.out
+multiplier = all
+part = photon
+emax = 100
+mat   mset1          mset2
+all   ( 1 3 -5 -6 )  ( 1 2 -5 -6 )
+
+[ End ]
